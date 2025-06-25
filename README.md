@@ -34,7 +34,9 @@ This analysis is designed to support stakeholders in understanding market dynami
 
 
 Data Sets used: Excel link : https://docs.google.com/spreadsheets/d/1wTa0zwOpZU_FtaedU_vLRFS0TE3gJU30fk8_kGtyzPE/edit?gid=1881662772#gid=1881662772
+
 PPT Presentation link : https://docs.google.com/presentation/d/1MJNHP3NmMRkKOa53POPha_gShK1z4ulpEPhtB5E2oUk/edit?usp=sharing
+
 Dashboard Iteraction : https://github.com/Vardhanpinisetti/Electri-Vehicle-Data-Analysis---Tableau/blob/main/Electric%20vechile%20Data%20Anlaysis.png
 
 
