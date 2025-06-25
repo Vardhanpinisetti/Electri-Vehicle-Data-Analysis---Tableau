@@ -22,7 +22,7 @@ Visualizations and Chart Requirements:
 
       - Total Vehicles by CAFV Eligibility: A pie or donut chart illustrating the proportion of EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, providing insight into the impact of government incentives on EV adoption.
 
-       - Total Vehicles by Model: A grid view listing the top 10 EV models by total vehicles, revealing consumer preferences and popular models.
+      - Total Vehicles by Model: A grid view listing the top 10 EV models by total vehicles, revealing consumer preferences and popular models.
 
 Software Requirements:
 
