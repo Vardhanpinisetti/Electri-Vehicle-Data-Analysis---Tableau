@@ -4,25 +4,25 @@ This project, titled "Electric Vehicle Data Analysis Tableau", is focused on pro
 
 Key Objectives and KPIs:
 
-                  - Total Vehicles: Assess the overall size and growth of the electric vehicle market by analyzing the total number of EVs, including both BEVs and PHEVs.
+     - Total Vehicles: Assess the overall size and growth of the electric vehicle market by analyzing the total number of EVs, including both BEVs and PHEVs.
 
-                  - Average Electric Range: Calculate the average electric range of vehicles in the dataset to evaluate advancements in EV technology and efficiency.
+     - Average Electric Range: Calculate the average electric range of vehicles in the dataset to evaluate advancements in EV technology and efficiency.
 
-                  - Total BEV Vehicles & % of Total: Identify the total number of BEVs and determine their percentage share within the broader EV market, highlighting the prevalence of fully electric models.
+     - Total BEV Vehicles & % of Total: Identify the total number of BEVs and determine their percentage share within the broader EV market, highlighting the prevalence of fully electric models.
 
-                  - Total PHEV Vehicles & % of Total: Identify the total number of PHEVs and calculate their market share, offering a comparison with BEVs and insights into consumer preferences for hybrid technology.
+     - Total PHEV Vehicles & % of Total: Identify the total number of PHEVs and calculate their market share, offering a comparison with BEVs and insights into consumer preferences for hybrid technology.
 
 Visualizations and Chart Requirements:
 
-                   - Total Vehicles by Model Year (From 2011 Onwards): A line or area chart visualizing the growth and adoption trends of EVs over time, starting from 2011.
+      - Total Vehicles by Model Year (From 2011 Onwards): A line or area chart visualizing the growth and adoption trends of EVs over time, starting from 2011.
 
-                   - Total Vehicles by State: A map chart depicting the geographic distribution of EVs, pinpointing states with higher adoption rates and regional trends.
+      - Total Vehicles by State: A map chart depicting the geographic distribution of EVs, pinpointing states with higher adoption rates and regional trends.
 
-                   - Top 10 Total Vehicles by Make: A bar chart highlighting the top 10 manufacturers by total EV sales, showcasing brand dominance in the market.
+      - Top 10 Total Vehicles by Make: A bar chart highlighting the top 10 manufacturers by total EV sales, showcasing brand dominance in the market.
 
-                   - Total Vehicles by CAFV Eligibility: A pie or donut chart illustrating the proportion of EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, providing insight into the impact of government incentives on EV adoption.
+      - Total Vehicles by CAFV Eligibility: A pie or donut chart illustrating the proportion of EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, providing insight into the impact of government incentives on EV adoption.
 
-                   - Total Vehicles by Model: A grid view listing the top 10 EV models by total vehicles, revealing consumer preferences and popular models.
+       - Total Vehicles by Model: A grid view listing the top 10 EV models by total vehicles, revealing consumer preferences and popular models.
 
 Software Requirements:
 
@@ -30,6 +30,7 @@ Software Requirements:
 
      - Tableau: Version 2025.2.0
 Dasboard image :  ![Electric vechile Data Anlaysis](https://github.com/user-attachments/assets/bf721515-447a-4234-8009-d25248b46553)
+
 
 This analysis is designed to support stakeholders in understanding market dynamics, technological progress, and policy impacts within the electric vehicle sector, using clear and interactive Tableau dashboards and visualizations.
 
