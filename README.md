@@ -1,4 +1,5 @@
 Electric Vehicle Data Analysis Tableau Project
+
 This project, titled "Electric Vehicle Data Analysis Tableau", is focused on providing a comprehensive analysis of electric vehicle (EV) adoption and trends using data visualization techniques. The analysis covers both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), aiming to deliver actionable insights into the current EV landscape.
 
 Key Objectives and KPIs:
@@ -41,4 +42,5 @@ Dashboard Iteraction : https://github.com/Vardhanpinisetti/Electri-Vehicle-Data-
 
 
 Final Conclusion: 
+
 This project shows that electric vehicles (EVs) are becoming much more popular, especially in the last few years. Most EVs are fully electric (BEVs), while a smaller part are plug-in hybrids (PHEVs). Tesla is the leading brand, with its Model Y and Model 3 being the most popular cars. Some states have many more EVs than others, showing that location and local policies matter. Also, about 43% of vehicles are eligible for special government incentives, which help encourage people to buy EVs. Overall, the data shows strong growth in the EV market, with technology and government support playing big roles.
