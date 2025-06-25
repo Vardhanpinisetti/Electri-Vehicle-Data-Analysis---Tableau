@@ -41,6 +41,8 @@ PPT Presentation link : https://docs.google.com/presentation/d/1MJNHP3NmMRkKOa53
 
 Dashboard Iteraction : https://github.com/Vardhanpinisetti/Electri-Vehicle-Data-Analysis---Tableau/blob/main/Electric%20vechile%20Data%20Anlaysis.png
 
+Final Tableau Dashboard link : https://public.tableau.com/views/Electricvechiledataanalysistableau/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 Final Conclusion: 
 
